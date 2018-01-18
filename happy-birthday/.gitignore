@@ -133,4 +133,8 @@ Thumbs.db
 .DS_Store
 /build
 /captures
+<<<<<<< HEAD:happy-birthday/.gitignore
 .externalNativeBuild
+=======
+.externalNativeBuild
+>>>>>>> Initial commit:.gitignore
