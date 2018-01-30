@@ -138,6 +138,7 @@ Thumbs.db
 <<<<<<< HEAD:happy-birthday/.gitignore
 <<<<<<< HEAD:happy-birthday/.gitignore
 <<<<<<< HEAD:happy-birthday/.gitignore
+<<<<<<< HEAD:happy-birthday/.gitignore
 .externalNativeBuild
 =======
 .externalNativeBuild
@@ -154,3 +155,6 @@ Thumbs.db
 =======
 .externalNativeBuild
 >>>>>>> Initial commit:.gitignore
+=======
+.externalNativeBuild
+>>>>>>> Git init finished project:.gitignore
