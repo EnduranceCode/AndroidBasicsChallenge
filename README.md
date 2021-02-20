@@ -35,7 +35,7 @@ The code written following the second Practice Set of the [**Google Developer Ch
 
 ### Court Counter
 
-The code written for the **Court Counter App** is stored in the branch [study/court-counter](https://github.com/EnduranceCode/AndroidBasicsChallenge/tree/study/court-counter).
+The code written for the **Court Counter App** is stored in the folder [court-counter](./court-counter).
 
 ## Lesson: Object-Oriented-Programming
 
