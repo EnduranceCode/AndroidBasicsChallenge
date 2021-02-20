@@ -45,7 +45,15 @@ The code written to practice ***Calling Methods*** is stored in the folder [call
 
 ### Inheriting Behavior Practice
 
-The code written to better understand the ***Inheriting Behavior*** in Object-Oriented-Programming is stored in the branch [study/inheriting-behavior](https://github.com/EnduranceCode/AndroidBasicsChallenge/tree/study/inheriting-behavior).
+The code written to better understand the ***Inheriting Behavior*** in Object-Oriented-Programming is stored in the folder [inheriting-behavior](./inheriting-behavior) of this repository.
+
+### Set Data on Views Practice
+
+The code written to practice ***Setting Data on Views*** is stored in the branch [study/set-views-data](https://github.com/EnduranceCode/AndroidBasicsChallenge/tree/study/set-views-data) of this repository.
+
+### Read Data from Views Practice
+
+The code written to practice ***Reading Data from Views*** is stored in the branch [study/read-views-data](https://github.com/EnduranceCode/AndroidBasicsChallenge/tree/study/read-views-data) of this repository.
 
 ### Set Data on Views Practice
 
