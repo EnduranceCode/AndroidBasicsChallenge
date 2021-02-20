@@ -9,13 +9,13 @@ This Challenge Course offers 6,000 Nanodegree Scholarships to the 60,000 thousan
 - Mobile Web Specialist Nanodegree
 - Front-End Developer Nanodegree
 
-Each branch of this repository stores the code, of the different ***Apps***, ***Practice Sets*** and ***Projects***, written while learning Android Development in the above mentioned **Google Developer Challenge Scholarship**.
+Each folder of this repository stores the code, of the different ***Apps***, ***Practice Sets*** and ***Projects***, written while learning Android Development in the above mentioned **Google Developer Challenge Scholarship**.
 
 ## Lesson: Building Layouts
 
 ### Birthday Card App
 
-The code for this simple **Birthday Card App** is stored in the branch [study/birthday-card](https://github.com/EnduranceCode/AndroidBasicsChallenge/tree/study/birthday-card).
+The code for this simple **Birthday Card App** is stored in the folder [birthday-card](./birthday-card).
 
 ### Make your own card
 
