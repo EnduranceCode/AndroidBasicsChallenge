@@ -41,7 +41,7 @@ The code written for the **Court Counter App** is stored in the folder [court-co
 
 ### Calling Methods Practice
 
-The code written to practice ***Calling Methods*** is stored in the branch [study/calling-methods](https://github.com/EnduranceCode/AndroidBasicsChallenge/tree/study/calling-methods) of this repository.
+The code written to practice ***Calling Methods*** is stored in the folder [calling-methods](./calling-methods) of this repository.
 
 ### Inheriting Behavior Practice
 
