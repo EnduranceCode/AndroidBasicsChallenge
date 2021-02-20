@@ -19,7 +19,7 @@ The code for this simple **Birthday Card App** is stored in the folder [birthday
 
 ### Make your own card
 
-The code developed to fulfill the instructions given in the **Make Your Own Card App** *Chapter* is stored in the branch [study/own-card](https://github.com/EnduranceCode/AndroidBasicsChallenge/tree/study/own-card).
+The code developed to fulfill the instructions given in the **Make Your Own Card App** *Chapter* is stored in the folder [own-card](./own-card).
 
 ## Lesson: Making an App Interactive
 
