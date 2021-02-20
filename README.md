@@ -49,15 +49,7 @@ The code written to better understand the ***Inheriting Behavior*** in Object-Or
 
 ### Set Data on Views Practice
 
-The code written to practice ***Setting Data on Views*** is stored in the branch [study/set-views-data](https://github.com/EnduranceCode/AndroidBasicsChallenge/tree/study/set-views-data) of this repository.
-
-### Read Data from Views Practice
-
-The code written to practice ***Reading Data from Views*** is stored in the branch [study/read-views-data](https://github.com/EnduranceCode/AndroidBasicsChallenge/tree/study/read-views-data) of this repository.
-
-### Set Data on Views Practice
-
-The code written to practice ***Setting Data on Views*** is stored in the branch [study/set-views-data](https://github.com/EnduranceCode/AndroidBasicsChallenge/tree/study/set-views-data) of this repository.
+The code written to practice ***Setting Data on Views*** is stored in the folder [set-views-data](./set-views-data) of this repository.
 
 ### Read Data from Views Practice
 
