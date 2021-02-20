@@ -25,7 +25,7 @@ The code developed to fulfill the instructions given in the **Make Your Own Card
 
 ### Just Java
 
-The code written for the **Just Java App** is stored in the branch [study/just-java](https://github.com/EnduranceCode/AndroidBasicsChallenge/tree/study/just-java).
+The code written for the **Just Java App** is stored in the folder [just-java](./just-java).
 
 **Just Java** is an Android app with buttons and text fields that a user can interact with, that allows a user to fill out a form to order coffee.
 
@@ -59,7 +59,7 @@ The code written to practice ***Reading Data from Views*** is stored in the bran
 
 ### Project 1: Single Screen App
 
-In this project it's built a single screen app in Android Studio that displays information about Udacity, along with a photo. This project's code is stored in the folder   [project1](./project1).
+In this project it's built a single screen app in Android Studio that displays information about Udacity, along with a photo. This project's code is stored in the folder [project1](./project1).
 
 ### Project 2: Court Counter App
 
